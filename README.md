@@ -1,4 +1,4 @@
-# Gramer Stats
+# Gamer Stats
 
 A simple website which made by CSS and HTML. Happly Coding!!
 
