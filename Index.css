@@ -41,7 +41,8 @@ header {
 
 .period,
 .active {
-  margin-left: auto;
+  /* margin-left: auto; */
+  margin-right: -5em;
 }
 .time {
   grid-area: time;
